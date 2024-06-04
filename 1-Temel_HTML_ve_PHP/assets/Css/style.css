@@ -1,0 +1,19 @@
+.tableH {
+  background-color: rgb(19, 18, 18) !important;
+  color: white !important;
+  text-align: center;
+}
+
+.tableInfo {
+  text-align: center !important;
+  background-color: beige !important;
+}
+
+.Quest1 {
+  display: block;
+  width: fit-content;
+  margin: 2% auto;
+  color: rgb(69, 66, 66);
+  text-shadow: 1px 1px 2px #2daae2;
+  font-size: 3rem;
+}

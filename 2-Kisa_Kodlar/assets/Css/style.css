@@ -1,0 +1,28 @@
+.Quest2 {
+  display: block;
+  width: fit-content;
+  margin: 2% auto;
+  color: rgb(69, 66, 66);
+  text-shadow: 1px 1px 2px #2daae2;
+  font-size: 3rem;
+}
+.text {
+  text-align: center;
+  display: block;
+  width: 800px;
+  margin: auto;
+}
+div {
+  margin-top: 20px !important;
+  border: 2px solid black;
+  padding: 8px;
+}
+.btnSize {
+  font-size: 1.2rem !important;
+  background-color: #2daae2;
+  color: white;
+}
+.btnSize:hover {
+  background-color: #0d4d6abe;
+  cursor: pointer;
+}
